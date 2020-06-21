@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+
+.Header{
+    padding: 55px;
+    background: url(../background/main\ screen.svg);
+    width: 1600px;
+    height: 900px;
+}
